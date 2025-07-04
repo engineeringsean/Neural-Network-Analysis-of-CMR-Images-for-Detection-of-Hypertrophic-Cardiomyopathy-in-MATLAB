@@ -14,6 +14,10 @@ Contrast Enhancement to highlight key structural features of the myocardium.
 
 Edge Detection to outline ventricular walls and make hypertrophic features more distinguishable.
 
+![Image Processing Interpolation Examples](https://github.com/engineeringsean/Neural-Network-Analysis-of-CMR-Images-for-Detection-of-Hypertrophic-Cardiomyopathy-in-MATLAB/blob/main/Image%20Processing%20Interpolation%20Examples.PNG)
+
+![Image Processing AdaptHistEq Examples](https://github.com/engineeringsean/Neural-Network-Analysis-of-CMR-Images-for-Detection-of-Hypertrophic-Cardiomyopathy-in-MATLAB/blob/main/Image%20Processing%20AdaptHistEq%20Examples.PNG)
+
 ### Machine Learning Classification:
 
 A Neural Network Classifier was trained to differentiate between healthy and HCM-affected hearts.
@@ -21,6 +25,12 @@ A Neural Network Classifier was trained to differentiate between healthy and HCM
 Classification was tested on separate, unseen images to evaluate performance.
 
 The model achieved a validation accuracy of 73%, with promising results on test images.
+
+![Neural Network Training Graph](https://github.com/engineeringsean/Neural-Network-Analysis-of-CMR-Images-for-Detection-of-Hypertrophic-Cardiomyopathy-in-MATLAB/blob/main/Project%202%20Network%20Training%20Graph.PNG)
+
+![Neural Network Image Classification](https://github.com/engineeringsean/Neural-Network-Analysis-of-CMR-Images-for-Detection-of-Hypertrophic-Cardiomyopathy-in-MATLAB/blob/main/Project%202%20Network%20Classification.PNG)
+
+![Neural Network Test](https://github.com/engineeringsean/Neural-Network-Analysis-of-CMR-Images-for-Detection-of-Hypertrophic-Cardiomyopathy-in-MATLAB/blob/main/Project%202%20Network%20Test.PNG)
 
 ## Outcome:
 The project demonstrated that with simple yet effective algorithms, it is possible to process and analyze medical images in a way that supports clinical decision-making. While interpretability of the neural network remains a challenge, its performance suggests potential utility as a “virtual second opinion” in a medical context.
